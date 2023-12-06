@@ -1,4 +1,6 @@
 # Kafka Streams Word Count Application
+Kafka stream basico en un fichero.
+Hecho en version Java y kotlin
 The Kafka Streams word count application is the classic "Hello World!" example for Kafka Streams.
 It helps to introduce some main concepts of the library.
 ##Application Diagram
